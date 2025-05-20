@@ -1,9 +1,9 @@
-# My GitHub Profile Page
+# Tayyeb Sultani's Personal Website
 
-A simple and minimalist static profile page for GitHub Pages, built using HTML and CSS.
+A minimal, professional one-page website showcasing my work as a Web3 Security Auditor and Blockchain Researcher.
 
-## Live Demo
+![Website Preview](preview.png)
 
-You can view the live demo of the profile page [here](https://freesultan.github.io).
+## Overview
 
- 
+This repository contains the source code for my personal website, highlighting my expertise in smart contract security auditing, protocol reviews, and blockchain security consulting.
